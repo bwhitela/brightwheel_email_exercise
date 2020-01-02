@@ -45,7 +45,7 @@ As I have said above, simplicity was key, here, so to run the application, all y
                             specified (as an env variable or option) or else the
                             application will not run.
 
-I have made use of the standard Python logging system, but have simply left if in the default mode of logging to standard out, so you will see logging on the command line as you run the application.
+I have made use of the standard Python logging system, but have simply left it in the default mode of logging to standard out, so you will see logging on the command line as you run the application.
 
 ## Languages, Frameworks, Packages, and Why
 
